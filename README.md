@@ -4,8 +4,9 @@
 https://learn.microsoft.com/en-us/training/courses/dp-900t00
 
 # Do practice tests from the following links:
-https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification#certification-practice-for-the-exam (Practice test from here)
-dp-900-exam-microsoft-azure-data-fundamentals-practice-tests By Video School - Varun Sh (Udemy Course) (And got 1-2 questions from this papers as well)
+- https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification#certification-practice-for-the-exam (Practice test from here)
+
+- dp-900-exam-microsoft-azure-data-fundamentals-practice-tests By Video School - Varun Sh (Udemy Course) (And got 1-2 questions from this papers as well)
 
 # Below Notes are not mine and has been taken from below link. Just added few extra content for preparation
 # Original Link: https://gist.github.com/j-thepac/61551f37b589bd425159c19064393987
