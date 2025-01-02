@@ -1,0 +1,1 @@
+# DP_900_Azure_Fundamentals_resource
